@@ -1,6 +1,6 @@
-# Vibe-Talker
+# Query Tool
 
-Vibe-Talker is a voice-controlled AI coding assistant for Windows. It listens through the microphone, converts speech to text, sends the request through a LangGraph agent, and can execute shell commands and return the results.
+This is a voice-controlled AI coding assistant for Windows. It listens through the microphone, converts speech to text, sends the request through a LangGraph agent, and can execute shell commands and return the results.
 
 ## Features
 
